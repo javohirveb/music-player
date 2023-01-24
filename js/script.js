@@ -22,7 +22,7 @@ let updateTimer
 
 const music_list = [
     {
-        img: '../images/photo.jpg',
+        img: '../images/izzat.jpg',
         name: 'Izzat Shukurov',
         artist: 'Jingalak',
         music: '../music/izzat.mp3',
@@ -50,6 +50,12 @@ const music_list = [
         name: 'Rema',
         artist: 'Calm down',
         music: '../music/calmdown.m4a',
+    },
+    {
+        img: '../images/another.jpg',
+        name: 'Tom Odel',
+        artist: 'Another love',
+        music: '../music/another.mp3',
     }
 ]
 
